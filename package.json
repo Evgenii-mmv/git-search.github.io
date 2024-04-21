@@ -1,7 +1,7 @@
 {
   "name": "git-search",
   "version": "0.1.0",
-  "homepage": "https://Evgenii-mmv.github.io/git-search",
+  "homepage": "https://evgenii-mmv.github.io/git-search.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
